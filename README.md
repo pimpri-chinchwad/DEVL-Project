@@ -1,5 +1,6 @@
 # DEVL-E-Commerce-Task
 
+https://www.kaggle.com/datasets/prachi13/customer-analytics?resource=download
 Here are two practical, real-world problem statements tailored for a Second Year Computer Engineering student taking **Data Exploration and Visualization Laboratory (DEnVL)**.
 
 While Pandas is typically used for loading tabular CSV files, NumPy is the underlying engine used for numerical heavy lifting, mathematical transformations, filtering, and statistical analysis (which aligns perfectly with your syllabus objectives of *data cleaning, preprocessing, and building a statistical foundation*).
