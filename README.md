@@ -1,5 +1,6 @@
 # DEVL-Miniproject
+Problem Statement:Analysis and Visualization of job roles for IT professionals offering high pay, and prediction of scope and pay in coming years
 
-Dataset of Job roles, visualization of roles which are in demand, their pay, etc and prediction of what will happen in the next year
+
 
 https://www.kaggle.com/datasets/shree0910/india-tech-job-market-2026-23k-records
